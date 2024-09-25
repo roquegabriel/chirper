@@ -10,6 +10,3 @@ php artisan route:cache
 
 echo "Running migrations..."
 php artisan migrate --force
-
-echo "Starting Vite development server..."
-npm run dev
